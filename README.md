@@ -1,0 +1,1 @@
+This project is a simple website template titled "Web Development Essentials." It serves as a basic structure for creating a responsive web page using HTML, CSS, and JavaScript. This project is part of a homework assignment.
