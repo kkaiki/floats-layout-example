@@ -83,12 +83,12 @@ h1 {
 
 /* Sticky Header Style */
 .sticky {
-    position: sticky; /* Sticky position */
-    top: 0; /* Stick to the top */
-    background-color: #fff; /* Background color */
-    padding: 10px; /* Padding */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Shadow effect */
-    z-index: 1000; /* Ensure it appears above other elements */
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
 }
 
 .back-to-top {
