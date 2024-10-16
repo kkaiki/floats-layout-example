@@ -114,3 +114,14 @@ h1 {
     width: 40%;
     height: auto;
 }
+
+.logo {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.logo-image {
+    height: 50px;
+    width: auto;
+    vertical-align: middle;
+}
